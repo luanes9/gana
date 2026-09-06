@@ -3,7 +3,7 @@ def imprimir_animes (animes):
     for i, desenho in enumerate(animes):
         print(f"[{i+1}] - {desenho}")
 
-animes = ["Nanatsu no taizai", "Naruto", "Nana", "Dorohedoro", "Beastars"]
+animes = ["Nanatsu no taizai ," "Naruto", "Nana", "Dorohedoro", "Beastars"]
 
 while True:
     imprimir_animes(animes)
